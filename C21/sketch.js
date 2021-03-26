@@ -2,6 +2,7 @@ var canvas;
 var block1,block2,block3,block4;
 var ball, edges;
 var music;
+//good evening ma'am, Ma'am after the class i was try to restore the project and it did!! and i have solved the bug also pls check and if it touchs yellow bloack then it will stop ☺
 
 function preload(){
     music = loadSound("music.mp3");
